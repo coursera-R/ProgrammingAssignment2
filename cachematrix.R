@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+## First committ check
 makeCacheMatrix <- function(x = matrix()) {
 
 }
